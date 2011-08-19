@@ -53,6 +53,7 @@
 		A2A5C77213D5A6A200C8C1F2 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A29B8F9213CD88D200B25FD0 /* QuartzCore.framework */; };
 		A2C5886313FE04BD004A5C8E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A2C5886113FE04BD004A5C8E /* icon.png */; };
 		A2C5886413FE04BD004A5C8E /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A2C5886213FE04BD004A5C8E /* icon@2x.png */; };
+		A2C5894F13FE20C9004A5C8E /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C5894E13FE20C9004A5C8E /* TestClass.m */; };
 		A2D0A97013D3B64200560915 /* DisparityViewConroller.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D0A96E13D3B64200560915 /* DisparityViewConroller.m */; };
 		A2D0A97113D3B64200560915 /* DisparityViewConroller.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2D0A96F13D3B64200560915 /* DisparityViewConroller.xib */; };
 		A2D0A9A713D3C39800560915 /* DisparityCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D0A9A613D3C39800560915 /* DisparityCell.m */; };
@@ -317,6 +318,8 @@
 		A2A5C76E13D5A6A200C8C1F2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		A2C5886113FE04BD004A5C8E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		A2C5886213FE04BD004A5C8E /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		A2C5894D13FE20C9004A5C8E /* TestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass.h; sourceTree = "<group>"; };
+		A2C5894E13FE20C9004A5C8E /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
 		A2D0A96D13D3B64200560915 /* DisparityViewConroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisparityViewConroller.h; sourceTree = "<group>"; };
 		A2D0A96E13D3B64200560915 /* DisparityViewConroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisparityViewConroller.m; sourceTree = "<group>"; };
 		A2D0A96F13D3B64200560915 /* DisparityViewConroller.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DisparityViewConroller.xib; sourceTree = "<group>"; };
@@ -396,6 +399,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				A2C5894C13FE20C0004A5C8E /* TestClass */,
 				A2D0ABFE13D3F9A400560915 /* DataManager */,
 				A2D0AA6613D3CA4F00560915 /* HelpInfo */,
 				A2D0A96313D3B3EB00560915 /* DisparityViewConroller */,
@@ -665,6 +669,15 @@
 				A2A22B7A13D01CA3006CA084 /* MBProgressHUD.m */,
 			);
 			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		A2C5894C13FE20C0004A5C8E /* TestClass */ = {
+			isa = PBXGroup;
+			children = (
+				A2C5894D13FE20C9004A5C8E /* TestClass.h */,
+				A2C5894E13FE20C9004A5C8E /* TestClass.m */,
+			);
+			name = TestClass;
 			sourceTree = "<group>";
 		};
 		A2D0A96313D3B3EB00560915 /* DisparityViewConroller */ = {
@@ -1037,6 +1050,7 @@
 				A2FC41F013D5086200424D0C /* DisparityDetailFooterCell.m in Sources */,
 				A2FC42E113D5284800424D0C /* Caution.m in Sources */,
 				A2FC431813D52B9E00424D0C /* DevInfo.m in Sources */,
+				A2C5894F13FE20C9004A5C8E /* TestClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

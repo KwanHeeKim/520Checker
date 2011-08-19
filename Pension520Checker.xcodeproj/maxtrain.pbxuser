@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2244, 3568}}";
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 3376}}";
 			sepNavSelRange = "{10, 0}";
-			sepNavVisRange = "{0, 613}";
+			sepNavVisRange = "{0, 1209}";
 			sepNavWindowFrame = "{{15, 94}, {1002, 679}}";
 		};
 	};
