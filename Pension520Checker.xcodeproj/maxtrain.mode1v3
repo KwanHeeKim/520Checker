@@ -232,8 +232,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -292,7 +290,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 212}, {426, 460}}</string>
+							<string>{{0, 0}, {426, 460}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -311,7 +309,7 @@
 							<real>426</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>2226 257 974 519 1280 -185 1920 1080 </string>
+						<string>2075 266 974 519 1280 -185 1920 1080 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -322,6 +320,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -339,7 +339,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A2C5886A13FE04D8004A5C8E</string>
+										<string>A2C5894B13FE206C004A5C8E</string>
 										<key>history</key>
 										<array>
 											<string>A2A2292A13CFCE6C006CA084</string>
@@ -396,7 +396,7 @@
 											<string>A21ADE8813D6F9FE000FC98E</string>
 											<string>A2C5886713FE04D8004A5C8E</string>
 											<string>A2C5886813FE04D8004A5C8E</string>
-											<string>A2C5886913FE04D8004A5C8E</string>
+											<string>A2C5886A13FE04D8004A5C8E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -410,7 +410,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {526, 473}}</string>
 								<key>RubberWindowFrame</key>
-								<string>2226 257 974 519 1280 -185 1920 1080 </string>
+								<string>2075 266 974 519 1280 -185 1920 1080 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -430,7 +430,7 @@
 								<key>Frame</key>
 								<string>{{0, 478}, {526, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>2226 257 974 519 1280 -185 1920 1080 </string>
+								<string>2075 266 974 519 1280 -185 1920 1080 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -454,9 +454,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A2C5886B13FE04D8004A5C8E</string>
+				<string>A2C5894013FE2049004A5C8E</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>A2C5886C13FE04D8004A5C8E</string>
+				<string>A2C5894113FE2049004A5C8E</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -594,13 +594,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>A29B8F7E13CD886500B25FD0</string>
-		<string>/Users/maxtrain/IPhoneWorkSpace/Pension520Checker/Pension520Checker.xcodeproj</string>
+		<string>/Users/maxtrain/IPhoneWorkSpace/520Checker/Pension520Checker.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>2226 257 974 519 1280 -185 1920 1080 </string>
+	<string>2075 266 974 519 1280 -185 1920 1080 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -677,7 +675,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>A29B8F7E13CD886500B25FD0</string>
-				<string>A2C5886D13FE04D8004A5C8E</string>
+				<string>A2C5894213FE2049004A5C8E</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

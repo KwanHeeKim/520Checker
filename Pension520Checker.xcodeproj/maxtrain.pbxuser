@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2244, 3794}}";
-			sepNavSelRange = "{4096, 0}";
-			sepNavVisRange = "{4102, 686}";
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 3568}}";
+			sepNavSelRange = "{10, 0}";
+			sepNavVisRange = "{0, 613}";
 			sepNavWindowFrame = "{{15, 94}, {1002, 679}}";
 		};
 	};
@@ -109,8 +109,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 335414436;
-			PBXWorkspaceStateSaveDate = 335414436;
+			PBXPerProjectTemplateStateSaveDate = 335421496;
+			PBXWorkspaceStateSaveDate = 335421496;
 		};
 		perUserProjectItems = {
 			A204005F13D6EA3000EF0C32 = A204005F13D6EA3000EF0C32 /* PBXTextBookmark */;
@@ -164,10 +164,12 @@
 			A2B57C6C13D7094300C12C60 = A2B57C6C13D7094300C12C60 /* PBXBookmark */;
 			A2B57C6D13D7094300C12C60 = A2B57C6D13D7094300C12C60 /* PBXBookmark */;
 			A2B57CC613D70B5C00C12C60 = A2B57CC613D70B5C00C12C60 /* PBXBookmark */;
-			A2C5886713FE04D8004A5C8E /* PBXBookmark */ = A2C5886713FE04D8004A5C8E /* PBXBookmark */;
-			A2C5886813FE04D8004A5C8E /* PBXTextBookmark */ = A2C5886813FE04D8004A5C8E /* PBXTextBookmark */;
-			A2C5886913FE04D8004A5C8E /* PBXBookmark */ = A2C5886913FE04D8004A5C8E /* PBXBookmark */;
-			A2C5886A13FE04D8004A5C8E /* PBXTextBookmark */ = A2C5886A13FE04D8004A5C8E /* PBXTextBookmark */;
+			A2C5886713FE04D8004A5C8E = A2C5886713FE04D8004A5C8E /* PBXBookmark */;
+			A2C5886813FE04D8004A5C8E = A2C5886813FE04D8004A5C8E /* PBXTextBookmark */;
+			A2C5886913FE04D8004A5C8E = A2C5886913FE04D8004A5C8E /* PBXBookmark */;
+			A2C5886A13FE04D8004A5C8E = A2C5886A13FE04D8004A5C8E /* PBXTextBookmark */;
+			A2C5893F13FE2049004A5C8E /* PBXTextBookmark */ = A2C5893F13FE2049004A5C8E /* PBXTextBookmark */;
+			A2C5894B13FE206C004A5C8E /* PBXTextBookmark */ = A2C5894B13FE206C004A5C8E /* PBXTextBookmark */;
 			A2D0A99513D3C2F100560915 = A2D0A99513D3C2F100560915 /* PBXTextBookmark */;
 			A2D0ABCD13D3F16300560915 = A2D0ABCD13D3F16300560915 /* PBXTextBookmark */;
 			A2D0ACEC13D40BF700560915 = A2D0ACEC13D40BF700560915 /* PBXTextBookmark */;
@@ -265,9 +267,6 @@
 		name = icon.png;
 		path = /Users/maxtrain/IPhoneWorkSpace/Pension520Checker/icon.png;
 		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavWindowFrame = "{{15, 144}, {1151, 629}}";
-		};
 	};
 	A21ADE7E13D6F9FE000FC98E /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -651,7 +650,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */;
 		name = "Pension520CheckerAppDelegate.m: 140";
 		rLen = 0;
-		rLoc = 4096;
+		rLoc = 4104;
 		rType = 0;
 		vrLen = 1118;
 		vrLoc = 3552;
@@ -661,7 +660,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */;
 		name = "Pension520CheckerAppDelegate.m: 140";
 		rLen = 0;
-		rLoc = 4096;
+		rLoc = 4104;
 		rType = 0;
 		vrLen = 1145;
 		vrLoc = 4102;
@@ -949,10 +948,30 @@
 		fRef = 1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */;
 		name = "Pension520CheckerAppDelegate.m: 140";
 		rLen = 0;
-		rLoc = 4096;
+		rLoc = 4104;
 		rType = 0;
 		vrLen = 686;
 		vrLoc = 4102;
+	};
+	A2C5893F13FE2049004A5C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */;
+		name = "Pension520CheckerAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	A2C5894B13FE206C004A5C8E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Pension520CheckerAppDelegate.m */;
+		name = "Pension520CheckerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 10;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
 	};
 	A2D0A96D13D3B64200560915 /* DisparityViewConroller.h */ = {
 		uiCtxt = {
